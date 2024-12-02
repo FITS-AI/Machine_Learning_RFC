@@ -8,4 +8,5 @@ Sumber Dataset: https://datasetsearch.research.google.com/search?src=0&query=foo
 ![image](https://github.com/user-attachments/assets/eac3bc4b-614f-49d0-b1a8-babe35fb14ea)
 
 # Dataset sesudah Data Cleansing
-![image](https://github.com/user-attachments/assets/949b2537-db05-4f40-98bf-9f88ff457f77)
+![image](https://github.com/user-attachments/assets/66fbda30-e07d-4db1-99bc-a57333677d64)
+
