@@ -1,4 +1,4 @@
-# Machine_Learning_RFC
+# Machine_Learning_XGBC
 
 Setelah menemukan dataset yang sesuai, masih ada beberapa fitur yang harus dihilangkan dan penggantian nama kolom melalui tahapan data cleansing
 
